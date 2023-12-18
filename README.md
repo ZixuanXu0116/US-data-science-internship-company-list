@@ -1,4 +1,4 @@
-# US-data-science-internship-company-list
+# US-2024-Summer-Data-Science-Internship-Company-List
 
 
 | Company | Role | Location | Application/Link | Date Posted |
